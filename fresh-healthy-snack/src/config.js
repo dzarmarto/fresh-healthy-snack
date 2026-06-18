@@ -3,7 +3,7 @@
 export const BUSINESS = {
   name: 'Fresh & Healthy Snack',
   tagline: 'Snack rapat yang lebih sehat',
-  whatsappNumber: '6281234567890', // Ganti dengan nomor WhatsApp asli (format: 62xxxxxxxxxx)
+  whatsappNumber: '6282130252141', // Ganti dengan nomor WhatsApp asli (format: 62xxxxxxxxxx)
   instagram: 'https://instagram.com/freshhealthysnack.id',
   email: 'hello@freshhealthysnack.id',
   address: 'Jl. Kemang Raya No. 12, Jakarta Selatan, DKI Jakarta',
